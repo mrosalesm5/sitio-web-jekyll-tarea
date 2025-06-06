@@ -22,8 +22,8 @@ title: Mi primer sitio con Jekyll
 author: Manuel Rosales
 email: mrosalesm5@miumg.edu.gt
 description: Sitio de ejemplo usando Jekyll 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sitio-web-jekyll-tarea" # the subpath of your site, e.g. /blog
+url: "https://mrosalesm5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
