@@ -14,9 +14,7 @@ Bienvenido a mi sitio con Jekyll.
 ## Últimos posts
 
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d-%m-%Y" }}
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
 </ul>
