@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mision y vision
+date: 2025-06-06 10:00:00
 permalink: /about/
 ---
 Misión: Adquirir conocimientos y habilidades para diseñar, implementar, y mantener sistemas informáticos, software, y redes, con el objetivo de resolver problemas y mejorar procesos en diversas áreas, desde negocios hasta la investigación.
