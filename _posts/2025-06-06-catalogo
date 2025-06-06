@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Catalogo
+layout: post
+title: "Catalogo"
 date: 2025-06-06 12:00:00 +0000
+categories: jekyll update
 permalink: /about/
 ---
 Desarrollo de Aplicaciones.
