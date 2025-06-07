@@ -9,7 +9,7 @@ layout: default
 
 Bienvenido a mi sitio con Jekyll.
 
-![Imagen destacada]({{ site.baseurl }}/images/thumb-up.jpg)
+![Imagen destacada]({{ site.baseurl }}/images/logo.jpg)
 
 ## Últimos posts
 
